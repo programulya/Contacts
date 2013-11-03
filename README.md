@@ -1,4 +1,4 @@
 contacts
 ========
 
-Short application for managing contacts
+Short demo application for managing contacts
