@@ -43,7 +43,7 @@ build/
 *.vssscc
 .builds
 *.pidb
-*.svclog
+*.log
 *.scc
 
 # Visual C++ cache files
@@ -59,16 +59,12 @@ ipch/
 *.vsp
 *.vspx
 
-# TFS 2012 Local Workspace
-$tf/
-
 # Guidance Automation Toolkit
 *.gpState
 
 # ReSharper is a .NET coding add-in
 _ReSharper*/
 *.[Rr]e[Ss]harper
-*.DotSettings.user
 
 # TeamCity is a build add-in
 _TeamCity*
@@ -78,7 +74,6 @@ _TeamCity*
 
 # NCrunch
 *.ncrunch*
-_NCrunch_*
 .*crunch*.local.xml
 
 # Installshield output folder
@@ -99,6 +94,7 @@ publish/
 
 # Publish Web Output
 *.Publish.xml
+*.pubxml
 
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
@@ -119,7 +115,6 @@ ClientBin/
 ~$*
 *~
 *.dbmdl
-*.dbproj.schemaview
 *.[Pp]ublish.xml
 *.pfx
 *.publishsettings
@@ -137,14 +132,6 @@ UpgradeLog*.htm
 # SQL Server files
 App_Data/*.mdf
 App_Data/*.ldf
-
-# Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-
-# Microsoft Fakes
-FakesAssemblies/
 
 # =========================
 # Windows detritus
