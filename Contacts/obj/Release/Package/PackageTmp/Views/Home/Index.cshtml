@@ -1,0 +1,124 @@
+﻿@{
+    ViewBag.Title = "Contacts";
+}
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/contacts")
+}
+
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Contact book for really absent-minded person.</h1>
+                <h2>Don't forget anything!</h2>
+            </hgroup>
+        </div>
+    </section>
+}
+
+<div id="contactManagement">
+    <div id="groupsLists" class="groups-block">
+        <div class="load-hover">
+            <div class="preloader"></div>
+            <div class="hover"></div>
+        </div>
+        <div class="contacts-section">
+            <div class="select-group-wrapper">
+                <select class="groups-list">                        
+                </select>
+            </div>
+            <div class="all-contacts-wrapper">             
+            </div>
+            <div class="buttons-wrapper">
+                <input id ="addNewContactButton" type="button" value="Add">   
+                <input id ="removeContactButton" type="button" value="Remove">             
+            </div>      
+        </div>
+        <div class="contact-info-section">
+            <div class="contact-info-wrapper">
+                <input type="hidden" id="currentId">
+                <table class="main-info">
+                    <tr>
+                        <td>
+                            <div id ="currentPhoto" class="current-photo"></div>
+                        </td>
+                        <td>
+                            <label id ="currentFullName" class="current-fullname"></label>
+                        </td>
+                    </tr>
+                </table>
+                <table class="info">
+                    <tr>
+                        <td class="current-email">
+                        </td>
+                        <td>
+                            E-mail:
+                        </td>
+                        <td>
+                            <a id="currentEmail" class="label"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="current-phone">
+                        </td>
+                        <td>
+                            Phone:
+                        </td>
+                        <td>             
+                            <a id ="currentPhone" class="label"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="current-group">
+                        </td>
+                        <td>
+                            Group:
+                        </td>
+                        <td>
+                            <label id ="currentGroup" class="label"></label>
+                        </td>
+                    </tr>
+                </table>
+                
+                <div class="buttons-wrapper">
+                    <input id ="addContactToGroupButton" type="button" value="Add To Group">   
+                    <input id ="removeContactFromGroupButton" type="button" value="Remove From Group">             
+                </div>   
+            </div>
+        </div>  
+    </div>
+    <div id="addContactDialog" class="dialog">
+        <dl>
+            <dt class="first-name">    
+                <label for="firstName">First Name:</label>    
+                <input id="firstName" type="text" value="" maxlength=20"><span>*</span>
+                <span class="error"></span>
+            </dt>
+            <dt class="middle-name">
+                <label for="middleName">Middle Name:</label>       
+                <input id="middleName" type="text" value="" maxlength="20">
+                <span class="error"></span>
+            </dt>
+            <dt class="last-name">
+                <label for="lastName">Last Name:</label>    
+                <input id="lastName" type="text" value="" maxlength="20"><span>*</span>
+                <span class="error"></span>
+            </dt>
+            <dt class="email">                    
+                <label for="email">E-mail:</label>  
+                <input id="email" type="text" value="" maxlength="50"><span>*</span>
+                <span class="error"></span>
+            </dt>
+            <dt class="phone">
+                <label for="phone">Phone:</label>   
+                <input id="phone" type="text" value="" maxlength="20"><span>*</span>
+                <span class="error"></span>
+            </dt>
+        </dl>
+    </div>
+    <div id="removeContactDialog" class="dialog">Are you sure you want to remove this contact?</div>
+    <div id="removeContactFromGroupDialog" class="dialog">Are you sure you want to remove this contact from selected group?</div>
+    <div id="addContactToGroupDialog" class="dialog">Are you sure you want to add this contact to selected group?</div>
+</div>

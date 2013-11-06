@@ -1,0 +1,339 @@
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Contacts.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Contacts.pdb
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Antlr3.Runtime.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.Core.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\EntityFramework.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Data.Edm.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Data.OData.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Newtonsoft.Json.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Net.Http.Formatting.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Spatial.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Helpers.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Http.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Http.OData.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Http.WebHost.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Mvc.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Optimization.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Razor.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.WebPages.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.WebPages.Razor.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\WebGrease.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\WebMatrix.Data.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\WebMatrix.WebData.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\EntityFramework.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Newtonsoft.Json.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Net.Http.Formatting.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Helpers.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Http.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Http.WebHost.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Mvc.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Razor.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.WebPages.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.WebPages.Razor.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\WebMatrix.Data.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\WebMatrix.WebData.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.Core.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Web.Http.OData.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Data.Edm.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\Microsoft.Data.OData.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\System.Spatial.xml
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\de\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\es\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\fr\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\it\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ja\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ko\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\ru\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\obj\Debug\Contacts.dll
+C:\Users\savinkova\Desktop\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Contacts.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Contacts.pdb
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Antlr3.Runtime.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.Core.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\EntityFramework.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.Edm.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.OData.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Newtonsoft.Json.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Net.Http.Formatting.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Spatial.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Helpers.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.OData.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.WebHost.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Mvc.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Optimization.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Razor.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Razor.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\WebGrease.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.Data.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.WebData.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\EntityFramework.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Newtonsoft.Json.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Net.Http.Formatting.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Helpers.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.WebHost.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Mvc.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Razor.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Razor.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.Data.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.WebData.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.Core.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.OData.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.Edm.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.OData.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\System.Spatial.xml
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\de\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\es\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\fr\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\it\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ja\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ko\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\ru\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\obj\Debug\Contacts.dll
+C:\Users\savinkova\Desktop\JS Course\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Contacts.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Contacts.pdb
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Antlr3.Runtime.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.Core.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\EntityFramework.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.Edm.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.OData.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Newtonsoft.Json.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Net.Http.Formatting.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Spatial.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Helpers.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.OData.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.WebHost.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Mvc.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Optimization.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Razor.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\WebGrease.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.Data.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.WebData.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\EntityFramework.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Newtonsoft.Json.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Net.Http.Formatting.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Helpers.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.WebHost.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Mvc.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Razor.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.Data.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\WebMatrix.WebData.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.Core.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Web.Http.OData.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.Edm.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\Microsoft.Data.OData.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\System.Spatial.xml
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\de\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\es\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\fr\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\it\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ja\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ko\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\ru\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\obj\Debug\Contacts.dll
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\Programulya\Desktop\JS Course\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+D:\GitHub\Contacts\Contacts\bin\Contacts.dll
+D:\GitHub\Contacts\Contacts\bin\Contacts.pdb
+D:\GitHub\Contacts\Contacts\bin\Antlr3.Runtime.dll
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.dll
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.Core.dll
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.dll
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.dll
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GitHub\Contacts\Contacts\bin\EntityFramework.dll
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Data.Edm.dll
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Data.OData.dll
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\GitHub\Contacts\Contacts\bin\Newtonsoft.Json.dll
+D:\GitHub\Contacts\Contacts\bin\System.Net.Http.Formatting.dll
+D:\GitHub\Contacts\Contacts\bin\System.Spatial.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.Helpers.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.Http.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.Http.OData.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.Http.WebHost.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.Mvc.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.Optimization.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.Razor.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.WebPages.dll
+D:\GitHub\Contacts\Contacts\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Contacts\Contacts\bin\WebGrease.dll
+D:\GitHub\Contacts\Contacts\bin\WebMatrix.Data.dll
+D:\GitHub\Contacts\Contacts\bin\WebMatrix.WebData.dll
+D:\GitHub\Contacts\Contacts\bin\EntityFramework.xml
+D:\GitHub\Contacts\Contacts\bin\Newtonsoft.Json.xml
+D:\GitHub\Contacts\Contacts\bin\System.Net.Http.Formatting.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.Helpers.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.Http.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.Http.WebHost.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.Mvc.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.Razor.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.WebPages.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Contacts\Contacts\bin\WebMatrix.Data.xml
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\GitHub\Contacts\Contacts\bin\WebMatrix.WebData.xml
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.AspNet.xml
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.Core.xml
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OAuth.xml
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.xml
+D:\GitHub\Contacts\Contacts\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GitHub\Contacts\Contacts\bin\System.Web.Http.OData.xml
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Data.Edm.xml
+D:\GitHub\Contacts\Contacts\bin\Microsoft.Data.OData.xml
+D:\GitHub\Contacts\Contacts\bin\System.Spatial.xml
+D:\GitHub\Contacts\Contacts\bin\de\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\es\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\it\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\GitHub\Contacts\Contacts\bin\de\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\es\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\fr\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\it\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ja\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ko\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ru\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\GitHub\Contacts\Contacts\bin\de\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\es\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\fr\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\it\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ja\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ko\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\ru\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\zh-Hans\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\bin\zh-Hant\System.Spatial.resources.dll
+D:\GitHub\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+D:\GitHub\Contacts\Contacts\obj\Debug\Contacts.dll
+D:\GitHub\Contacts\Contacts\obj\Debug\Contacts.pdb
