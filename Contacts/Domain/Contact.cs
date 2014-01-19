@@ -4,20 +4,11 @@ namespace Contacts.Domain
 {
 	public sealed class Contact
 	{
-		public Contact()
-		{
-		}
-
-		public Contact(Int32 id)
-		{
-			Id = id;
-		}
-
 		public Int32 Id { get; set; }
 		public String Email { get; set; }
 		public String FirstName { get; set; }
-		public String LastName { get; set; }
 		public String MiddleName { get; set; }
+        public String LastName { get; set; }
 		public String Phone { get; set; }
 		public Int32 ContactGroupId { get; set; }
 

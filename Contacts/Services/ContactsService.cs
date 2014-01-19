@@ -13,10 +13,10 @@ namespace Contacts.Services
 
         private List<ContactGroup> _contactGroups = new List<ContactGroup>
             {
-                new ContactGroup {Id = -1, Name = "Unsorted"},
-                new ContactGroup {Id = 1, Name = "Best friends"},
-                new ContactGroup {Id = 2, Name = "Haters gonna hate"},
-                new ContactGroup {Id = 3, Name = "Family"}
+                new ContactGroup {Id = 1, Name = "Unsorted"},
+                new ContactGroup {Id = 2, Name = "Best friends"},
+                new ContactGroup {Id = 3, Name = "Haters gonna hate"},
+                new ContactGroup {Id = 4, Name = "Family"}
             };
 
         private List<Contact> _contacts = new List<Contact>
@@ -49,7 +49,7 @@ namespace Contacts.Services
                         MiddleName = String.Empty,
                         LastName = "Klaus",
                         Phone = "(093)1111111",
-                        ContactGroupId = -1
+                        ContactGroupId = 1
                     },
                 new Contact
                     {
@@ -59,7 +59,7 @@ namespace Contacts.Services
                         MiddleName = String.Empty,
                         LastName = "Presley",
                         Phone = "2222222",
-                        ContactGroupId = 1
+                        ContactGroupId = 4
                     },
                 new Contact
                     {
@@ -79,7 +79,7 @@ namespace Contacts.Services
                         MiddleName = "Forever",
                         LastName = "Alone",
                         Phone = "(093)5673378",
-                        ContactGroupId = -1
+                        ContactGroupId = 3
                     }
             };
 

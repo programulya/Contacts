@@ -1,8 +1,8 @@
 ﻿$(document).ready(function() {
-    contactManager = new contactManagementControl();
+    contactManager = new ContactManagementControl();
 });
 
-function contactManagementControl() {
+function ContactManagementControl() {
     this.contactsData = {};
     this.activeGroup;
 
@@ -38,7 +38,7 @@ function contactManagementControl() {
     this.requestContactsData();
 }
 
-contactManagementControl.prototype = {
+ContactManagementControl.prototype = {
     requestContactsData: function() {
         var self = this;
         this.showLoader();
@@ -78,7 +78,7 @@ contactManagementControl.prototype = {
                     id: "addContactOkButton",
                     text: "Ok",
                     click: function() {
-                        var group = -1;
+                        var group = 1;
                         if (self.activeGroup != 0)
                             group = self.activeGroup;
 
@@ -231,7 +231,6 @@ contactManagementControl.prototype = {
 
         $("#groupsLists .all-contacts-wrapper").append('<div class="current-contact" id="contact_' + contactId + '"><a class="set-action"></a><span class="hover"></span>' + '<span class="name">' + contactName + '</span></div>');
         $("#groupsLists .all-contacts-wrapper .current-contact").last().find("a.set-action").click(function() {
-            //event.stopPropagation();
             self.getContact(contactId);
         });
     },
