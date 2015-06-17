@@ -151,7 +151,7 @@ namespace Contacts.Services
             }
         }
 
-        public Int32 AddContact(Contact contact)
+        public int AddContact(Contact contact)
         {
             if (contact == null)
                 throw new ArgumentNullException("contact");
